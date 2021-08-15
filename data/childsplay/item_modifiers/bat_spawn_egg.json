@@ -1,0 +1,5 @@
+
+{
+    "function": "minecraft:set_nbt",
+    "tag": "{EntityTag:{id:\"minecraft:marker\",Summon_Miner:1b}}"
+}
