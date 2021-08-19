@@ -10,6 +10,8 @@ scoreboard objectives add deathcount deathCount
 
 scoreboard players add .game_round game_information 0
 scoreboard players add .is_running game_information 0
+scoreboard players add .green_destroyed game_information 0
+scoreboard players add .purple_destroyed game_information 0
 scoreboard players add .ticks game_counter 0
 scoreboard players add .seconds game_counter 0
 
