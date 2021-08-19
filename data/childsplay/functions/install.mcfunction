@@ -2,6 +2,7 @@
 tellraw @a {"text":"CP Commands Reloaded!","color":"aqua"}
 
 scoreboard objectives add creator trigger
+scoreboard objectives add game_information dummy
 
 team add green {"text":"Team Green","color":"green"}
 team add purple {"text":"Team Purple","color":"dark_purple"}
