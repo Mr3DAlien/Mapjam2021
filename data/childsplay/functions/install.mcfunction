@@ -5,7 +5,13 @@ gamerule doImmediateRespawn true
 
 scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
+scoreboard objectives add game_counter dummy
 scoreboard objectives add deathcount deathCount
+
+scoreboard players add .game_round game_information 0
+scoreboard players add .is_running game_information 0
+scoreboard players add .ticks game_counter 0
+scoreboard players add .seconds game_counter 0
 
 team add green {"text":"Team Green","color":"green"}
 team add purple {"text":"Team Purple","color":"dark_purple"}
