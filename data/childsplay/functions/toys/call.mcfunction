@@ -1,0 +1,2 @@
+
+function childsplay:toys/create/armor_stand_call
