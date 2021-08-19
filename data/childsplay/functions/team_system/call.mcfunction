@@ -1,0 +1,2 @@
+
+function childsplay:team_system/join_team
