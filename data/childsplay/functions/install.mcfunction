@@ -13,6 +13,11 @@ scoreboard players add .is_running game_information 0
 scoreboard players add .ticks game_counter 0
 scoreboard players add .seconds game_counter 0
 
+bossbar add counter {"text":"Time Left","color":"aqua"}
+bossbar set minecraft:counter max 120
+bossbar set minecraft:counter style notched_6
+bossbar set minecraft:counter color pink
+
 team add green {"text":"Team Green","color":"green"}
 team add purple {"text":"Team Purple","color":"dark_purple"}
 team modify green color green
