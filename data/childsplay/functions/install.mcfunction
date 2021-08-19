@@ -1,8 +1,11 @@
 
 tellraw @a {"text":"CP Commands Reloaded!","color":"aqua"}
 
+gamerule doImmediateRespawn true
+
 scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
+scoreboard objectives add deathcount deathCount
 
 team add green {"text":"Team Green","color":"green"}
 team add purple {"text":"Team Purple","color":"dark_purple"}

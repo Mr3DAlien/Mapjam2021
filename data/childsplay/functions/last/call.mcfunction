@@ -1,0 +1,2 @@
+
+function childsplay:last/reset_deathcount
