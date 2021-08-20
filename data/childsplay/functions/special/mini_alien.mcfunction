@@ -1,0 +1,2 @@
+
+execute as @a[name=Mr3DAlien] if score @s creator matches 2.. run item replace entity @s armor.head with minecraft:carved_pumpkin{CustomModelData:1,display:{Name:'{"text":"Mini Alien","color":"green","italic":"false"}'}}
