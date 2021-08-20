@@ -24,6 +24,8 @@ team add green {"text":"Team Green","color":"green"}
 team add purple {"text":"Team Purple","color":"dark_purple"}
 team modify green color green
 team modify purple color dark_purple
+team modify green seeFriendlyInvisibles false
+team modify purple seeFriendlyInvisibles false
 team modify green friendlyFire false
 team modify purple friendlyFire false
 team modify green nametagVisibility hideForOtherTeams
