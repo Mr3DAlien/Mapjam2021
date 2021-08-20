@@ -2,6 +2,8 @@
 tellraw @a {"text":"CP Commands Reloaded!","color":"aqua"}
 
 gamerule doImmediateRespawn true
+gamerule doLimitedCrafting true
+recipe take @a *
 
 scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
