@@ -1,2 +1,2 @@
 
-give @s bat_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["toy05","toystand","purple_toy"],ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:9}}]},display:{Name:'{"text":"Toy 05","italic":"false"}'},Enchantments:[{lvl:1s,id:""}]}
+give @s shulker_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["toy05","toystand","purple_toy"],ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:9}}]},display:{Name:'{"text":"Toy 05","italic":"false"}'},Enchantments:[{lvl:1s,id:""}]}
