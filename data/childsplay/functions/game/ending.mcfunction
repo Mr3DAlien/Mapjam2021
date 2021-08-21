@@ -7,3 +7,4 @@ scoreboard players set .purple_destroyed game_information 0
 scoreboard players set .is_running game_information 0
 bossbar set minecraft:counter visible false
 scoreboard players set .seconds game_counter -101
+kill @e[type=item]
