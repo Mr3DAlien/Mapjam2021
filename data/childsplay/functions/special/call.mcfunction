@@ -1,4 +1,5 @@
 
+function childsplay:special/flying_alien
 function childsplay:special/mini_alien
 function childsplay:special/marker_particle
 function childsplay:special/creators
