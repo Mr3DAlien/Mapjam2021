@@ -11,6 +11,7 @@ kill @e[type=!player,type=!marker,type=!armor_stand,type=!item_frame,type=!glow_
 scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
 scoreboard objectives add game_counter dummy
+scoreboard objectives add random_counter dummy
 scoreboard objectives add deathcount deathCount
 
 scoreboard players add .game_round game_information 0
