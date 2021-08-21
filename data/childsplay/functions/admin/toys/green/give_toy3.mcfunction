@@ -1,0 +1,2 @@
+
+give @s bat_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["toy03","toystand","green_toy"],ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:5}}]},display:{Name:'{"text":"Toy 03","italic":"false"}'},Enchantments:[{lvl:1s,id:""}]}
