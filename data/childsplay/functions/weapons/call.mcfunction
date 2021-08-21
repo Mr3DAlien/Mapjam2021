@@ -1,0 +1,2 @@
+
+function childsplay:weapons/spawning

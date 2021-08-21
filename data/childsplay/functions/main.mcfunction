@@ -7,4 +7,6 @@ function childsplay:team_system/call
 
 function childsplay:toys/call
 
+function childsplay:weapons/call
+
 function childsplay:last/call
