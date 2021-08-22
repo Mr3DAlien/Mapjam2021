@@ -1,4 +1,5 @@
 
+gamemode spectator @a[team=!green,team=!purple]
 scoreboard players add .game_round game_information 1
 scoreboard players set .is_running game_information 1
 fill 115 5 -283 117 5 -291 minecraft:red_concrete

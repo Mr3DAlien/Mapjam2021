@@ -1,5 +1,7 @@
 
+team leave @a
 tp @a 119.72 6.00 -286.37
+gamemode adventure @a[gamemode=spectator]
 function childsplay:game/winning_system/call_winner
 scoreboard players set .ticks game_counter 0
 scoreboard players set .green_destroyed game_information 0
