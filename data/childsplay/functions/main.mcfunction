@@ -1,4 +1,6 @@
 
+function childsplay:first/call
+
 function childsplay:game/call
 
 function childsplay:special/call

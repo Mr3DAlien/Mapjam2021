@@ -12,7 +12,7 @@ scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
 scoreboard objectives add game_counter dummy
 scoreboard objectives add random_counter dummy
-scoreboard objectives add deathcount deathCount
+scoreboard objectives add health_remove health
 
 scoreboard players add .game_round game_information 0
 scoreboard players add .is_running game_information 0

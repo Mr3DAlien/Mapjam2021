@@ -1,0 +1,2 @@
+
+function childsplay:first/store_player_hearts
