@@ -6,7 +6,7 @@ gamerule doImmediateRespawn true
 gamerule doLimitedCrafting true
 recipe take @a *
 
-kill @e[type=!player,type=!marker,type=!armor_stand,type=!item_frame,type=!glow_item_frame]
+kill @e[type=!player,type=!marker,type=!armor_stand,type=!item_frame,type=!glow_item_frame,type=!item]
 
 scoreboard objectives add creator trigger
 scoreboard objectives add game_information dummy
