@@ -1,2 +1,2 @@
 
-give @s creeper_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["toy01","toystand","green_toy"],ArmorItems:[{},{},{},{id:"minecraft:diamond_hoe",Count:1b,tag:{CustomModelData:1}}]},display:{Name:'{"text":"Toy 01","italic":"false"}'},Enchantments:[{lvl:1s,id:""}]}
+give @s creeper_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["toy01","toystand","green_toy"],ArmorItems:[{},{},{},{id:"minecraft:shears",Count:1b,tag:{CustomModelData:1}}]},display:{Name:'{"text":"Toy 01","italic":"false"}'},Enchantments:[{lvl:1s,id:""}]}
