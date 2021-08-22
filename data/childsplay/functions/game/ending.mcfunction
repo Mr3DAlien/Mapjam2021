@@ -1,4 +1,5 @@
 
+execute as @e[tag=toystand] at @s run setblock ~ ~ ~ minecraft:structure_void
 team leave @a
 tp @a 119.72 6.00 -286.37
 gamemode adventure @a[gamemode=spectator]
